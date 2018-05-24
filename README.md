@@ -78,6 +78,8 @@ AWS re:invent 2015
 
 [aws-cfn-template-flip](https://github.com/awslabs/aws-cfn-template-flip) - Tool for converting AWS CloudFormation templates between JSON and YAML formats
 
+[cfn-python-lint](https://github.com/awslabs/cfn-python-lint) - Validate CloudFormation yaml/json templates against the CloudFormation spec and additional checks. Includes checking valid values for resource properties and best practices.
+
 <a name="dsls" />
 
 ## DSLs and Generators
